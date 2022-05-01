@@ -1,0 +1,4 @@
+name	phone	email	machineMake	MachineModel	classcount	classmax	classinit	classmin
+Charlie Copenhagen	111-111-1111	ccope@a.com	Viking	Saphire 210	1	3	a	1
+Susan Sippy	222-222-2222	ssipp@b.com	Brother	Disney	2	3	a	1
+Andy Anders	333-333-3333	aand@c.com	Pfaft	Model 123	3	3	a	1
